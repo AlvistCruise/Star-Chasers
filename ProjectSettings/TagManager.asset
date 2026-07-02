@@ -2,8 +2,9 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Floor
   layers:
   - Default
   - TransparentFX
@@ -12,9 +13,9 @@ TagManager:
   - Water
   - UI
   - 
+  - Player
   - 
-  - 
-  - 
+  - floor
   - 
   - 
   - 
@@ -41,3 +42,26 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Bg1
+    uniqueID: 1438728799
+    locked: 0
+  - name: Bg2
+    uniqueID: 4206230271
+    locked: 0
+  - name: Bg3
+    uniqueID: 2655238953
+    locked: 0
+  - name: Floor
+    uniqueID: 3666022051
+    locked: 0
+  - name: Star
+    uniqueID: 2602740581
+    locked: 0
+  - name: Player
+    uniqueID: 1353190933
+    locked: 0
+  - name: logo
+    uniqueID: 2500403585
+    locked: 0
+  m_RenderingLayers:
+  - Default
